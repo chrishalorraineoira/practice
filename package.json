@@ -1,0 +1,27 @@
+{
+  "name": "oira.sia",
+  "version": "1.0.0",
+  "description": "sia, pracctice",
+  "keywords": [
+    "sia",
+    "midterms"
+  ],
+  "homepage": "https://github.com/chrishalorraineoira/practice#readme",
+  "bugs": {
+    "url": "https://github.com/chrishalorraineoira/practice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrishalorraineoira/practice.git"
+  },
+  "license": "ISC",
+  "author": "Oira, Chrisha Lorraine L.",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
